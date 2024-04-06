@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Moto Honda CB190R",
+        "precio": 12000000,
+        "peso": 142
+    },
+    {
+        "id": 2,
+        "nombre": "Moto Suzuki Gixxer SF",
+        "precio": 15500000,
+        "peso": 148
+    },
+    {
+        "id": 3,
+        "nombre": "Moto Yamaha FZ25",
+        "precio": 14200000,
+        "peso": 146
+    },
+    {
+        "id": 4,
+        "nombre": "Moto Kawasaki Ninja 300",
+        "precio": 21000000,
+        "peso": 172
+    },
+    {
+        "id": 5,
+        "nombre": "Moto KTM Duke 200",
+        "precio": 18700000,
+        "peso": 153
+    }
+]
